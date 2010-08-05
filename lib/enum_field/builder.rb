@@ -1,3 +1,4 @@
+# encoding: utf-8
 module EnumField
   class Builder
     def initialize(target)
